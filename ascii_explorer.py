@@ -26,4 +26,5 @@ print("'0' = " + str(ord('0')))
 
 
 # The ASCII code for A is 65, the ASCII code for Z is 90
-# A is capitalized and a is not, and Python is a case sensitive program
+# Uppercase letters are ranged from 65-90 in the computer programming, and lowercase letters are further back in the numbering list. 
+# No-- they represent spaces
